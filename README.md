@@ -18,13 +18,13 @@ Use the command "help" for the following printout of available commands and a sh
 
 >Usage: 'addcategory' followed by the name of the category.
 
->Example: addcategory shopping")
+>Example: addcategory shopping
 
 **addurl**
 
 >Aliases: add, a
 
->Search URLS must be added to an existing category. The URL must include '%s' where the search term will be placed. '%s' can be in the URL only once or only the first will be  replaced. A URL without '%s' will still be opened but will be ineffective for searching the website for your terms. If running the script with command-line arguments, the URL is recommended to be enclosed in quotation marks ( " )
+>Search URLS must be added to an existing category. The URL must include '%s' where the search term will be placed. '%s' can be in the URL only once or only the first will be  replaced. A URL without '%s' will still be opened but will be ineffective for searching the website for your terms. If running the script with command-line arguments, the URL is recommended to be enclosed in quotation marks ( " ).
 
 >Usage: 'addurl' followed by the category name followed by the URL
 
